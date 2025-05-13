@@ -5,4 +5,4 @@ ArchiMate модель архитектуры платформы для прак
 
 В каталоге view-images расположены представления модели в виде изображений в формате PNG
 
-[Просмотр модели онлайн](https://edu-it-infrastructure.github.io/archi/)
+[Просмотр модели онлайн](https://devops-practical-classes-25.github.io/archi-model/)
